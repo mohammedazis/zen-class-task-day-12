@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(153, 207, 189);
+}
+.design {
+  height: 50rem;
+  width: 60rem;
+  border: 3px solid black;
+  margin: 100px;
+  background-color: rgb(94, 143, 143);
+}
+.heading1 {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 8ex;
+}
+.para {
+  text-align: center;
+  font-size: 4ex;
+}
+.desig {
+  border: 2px solid black;
+  margin: 5px;
+  height: 25rem;
+}
+.model {
+  margin-top: 100px;
+}
+#img {
+  width: 80%;
+  margin-top: 7rem;
+  margin-left: 1rem;
+  padding-top: 20px;
+}
+.pa {
+  margin-top: 2px;
+}
+.pc {
+  margin: 5px;
+}

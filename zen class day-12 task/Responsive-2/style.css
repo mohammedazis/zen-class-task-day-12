@@ -1,0 +1,43 @@
+.black{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+}
+.title{
+    text-align: center;
+}
+.title-2{
+    height: 40rem;
+    margin-top: 2px;
+    background-color: rgb(106, 132, 132);
+}
+.bord{
+    height: 38rem;
+}
+.firstpro{
+    height: 28rem;
+    width: 20rem;
+    margin-top: 6rem;
+    margin-left: 2rem;
+}
+.filtr{
+margin-top: 100px;
+padding: 1rem;
+padding-left: 13rem;
+padding-right: 13rem;
+margin-left: 125px;
+}
+.new{
+    margin-left: 4rem;
+    height: 10px;
+    width: 13rem;
+ height: 9rem;
+    margin-top: 2rem;
+}
+.new-1{
+    margin-left: 100px;
+margin-top: 2rem;
+height: 10rem;
+width: 42rem;
+}
